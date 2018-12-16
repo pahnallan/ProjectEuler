@@ -1,0 +1,1 @@
+Initial setup of Proejct Euler repo for storing and tracking my progress.
